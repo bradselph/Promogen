@@ -1,0 +1,19 @@
+{
+  "cloudflare_api_token": "",
+  "ez_captcha_api_key": "",
+  "2captcha_api_key": "",
+  "recaptcha_site_key": "",
+  "email_domain": "",
+  "cloudflare_zone_id": "",
+  "forward_to_email": "",
+  "monster_promo_url": "https://callofduty.monsterenergy.com/en-us/season4promo/",
+  "monster_submit_url": "https://callofduty.monsterenergy.com/en-us/home/submit/",
+  "use_proxy": false,
+  "proxy_username": "",
+  "proxy_password": "",
+  "proxy_dns": "",
+  "proxy_port": "",
+  "use_cloudflare_email": true,
+"debug_mode": false,
+"use_2captcha": false
+}
